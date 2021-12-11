@@ -1,0 +1,9 @@
+D:\data_warehouse\clr\clr\bin\Debug\clr.dacpac
+D:\data_warehouse\clr\clr\bin\Debug\clr.dll
+D:\data_warehouse\clr\clr\bin\Debug\clr.pdb
+D:\data_warehouse\clr\clr\obj\Debug\clr.dll
+D:\data_warehouse\clr\clr\obj\Debug\clr.pdb
+D:\data_warehouse\clr\clr\obj\Debug\Model.xml
+D:\data_warehouse\clr\clr\obj\Debug\refactor.xml
+D:\data_warehouse\clr\clr\obj\Debug\postdeploy.sql
+D:\data_warehouse\clr\clr\obj\Debug\predeploy.sql

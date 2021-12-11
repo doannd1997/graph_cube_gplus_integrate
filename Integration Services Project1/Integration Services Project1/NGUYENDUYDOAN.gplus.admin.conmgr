@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="NGUYENDUYDOAN.gplus.admin"
+  DTS:DTSID="{C35303C5-B833-445D-A1A4-2A3C14489E54}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=NGUYENDUYDOAN;User ID=admin;Initial Catalog=gplus;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABIUW3TYAjUSnLA9aOdOKogAAAAACAAAAAAAQZgAAAAEAACAAAABt7xgpLEM1QJDFTKi5cabjN5fvBuOxX1fTWyVhbxbzlwAAAAAOgAAAAAIAACAAAABeZJOeCsEnXiF0lrxcESG3C8ifw7BNWfazQuKzxGETp4AAAAB1T0oH3c65rn6Eta0KtRPu6hETkZcH3HwupOkg9Ag4AeQ1Kzipqczi5yO6dsXz+oDPLmPBjsA0jgQEnh92UjFOt8WzWLSelZaEAoOzITpzW+QHAuxcYJk/nGSelYjPntA8R+lDYJ8rOHnE/ifCZz05hI9EHSa/r/ugBlzKel3eckAAAAAw/eoDi1bp1oIPypLX3pdxtpNdHLp/gRGpKsmCIWcTcCalpkT4KHAwhBa1cTdyuwCcFcZYxoixgW3jzC6+9Szj</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

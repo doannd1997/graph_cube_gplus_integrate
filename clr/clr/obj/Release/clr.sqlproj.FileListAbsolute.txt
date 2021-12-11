@@ -1,0 +1,5 @@
+D:\data_warehouse\clr\clr\bin\Release\clr.dacpac
+D:\data_warehouse\clr\clr\bin\Release\clr.dll
+D:\data_warehouse\clr\clr\bin\Release\clr.pdb
+D:\data_warehouse\clr\clr\obj\Release\clr.dll
+D:\data_warehouse\clr\clr\obj\Release\clr.pdb

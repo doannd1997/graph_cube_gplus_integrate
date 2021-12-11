@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [clr] (Assembly)
+     Create
+       [clr] (Assembly)
+       [dbo].[a_entropy] (Aggregate)
+
+** Supporting actions
+     Drop
+       [dbo].[SqlAggregate1] (Aggregate)
+       [dbo].[f_entropy] (Function)
+     Create
+       [dbo].[f_entropy] (Function)
+
+If this deployment is executed, [dbo].[SqlAggregate1] will be dropped and not re-created.
+
